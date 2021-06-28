@@ -1,2 +1,2 @@
-# entra21-projeto-exemplo
+# git-exemplo
 aprendendo a usar o git
