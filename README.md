@@ -1,6 +1,6 @@
 # git-exemplo
 aprendendo a usar o git
-e controle de versões
+e controle de versões (status | add | commit | push)
 
 <br>
 
