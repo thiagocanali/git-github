@@ -1,8 +1,7 @@
-# Como usar o git e fazer seu primeiro commit <br> git, github e controle de versões
+# Como usar o git e fazer seu primeiro commit <br> git, github e controle de versões <br> status | add | commit | push
 (**https://git-scm.com/downloads**)
 <br>
 <br>
-status | add | commit | push
 <br>
 
 Iniciando um repositório:
