@@ -16,15 +16,15 @@ Checando o que foi alterado nos arquivos:
 <br>
 › git diff
 <br>
-› git diff (arquivo)
+› git diff ‹arquivo›
 <br>
-› git diff --check(checa por espaços em branco)
+› git diff --check (checa por espaços em branco)
 <br><br>
 Adicionando arquivos para a área de seleção (salva mudanças feitas ):
 <br>
 › git add . (adiciona todos os arquivos modificados)
 <br>
-› git add <arquivo> (adiciona arquivo específico)
+› git add ‹arquivo› (adiciona arquivo específico)
 <br><br>
 Move arquivos da área de seleção para a área de envio:
 <br>
@@ -32,7 +32,7 @@ Move arquivos da área de seleção para a área de envio:
 <br><br>
 Muda de branch ao mesmo tempo que cria um:
 <br>
-› git checkout -b <nome-do-branch>
+› git checkout -b ‹nome-do-branch›
 <br><br>
 Envia arquivos da área de envio:
 <br>
