@@ -1,5 +1,5 @@
 # Como usar o git e fazer seu primeiro commit <br> git, github e controle de versões
-(**https://git-scm.com/downloads**) <br> git bash here
+
 <br>
 
 Iniciando um repositório:
@@ -42,4 +42,6 @@ Envia arquivos da área de envio:
 <br>
 › git push
 <br><hr>
-status | add | commit | push
+git bash here <br> 
+status | add | commit | push <br> 
+**https://git-scm.com/downloads**
