@@ -37,5 +37,5 @@ git checkout -b <nome-do-branch>
 Envia arquivos da área de envio:
 <br>
 git push
-<br><hr><br>
+<br><hr>
  <br> status | add | commit | push
