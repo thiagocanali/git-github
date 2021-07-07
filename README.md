@@ -16,7 +16,7 @@ Checando o que foi alterado nos arquivos:
 <br>
 › git diff
 <br>
-› git diff <arquivo>
+› git diff (arquivo)
 <br>
 › git diff --check(checa por espaços em branco)
 <br><br>
