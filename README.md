@@ -3,9 +3,8 @@
 <br>
 
 Iniciando um repositório:
-<br>
 - git clone
-<br>
+<br><br>
 - git init
 <br><br>
 Checando o estado dos seus arquivos:
