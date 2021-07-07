@@ -38,4 +38,4 @@ Envia arquivos da área de envio:
 <br>
 › git push
 <br><hr>
- <br> status | add | commit | push
+status | add | commit | push
