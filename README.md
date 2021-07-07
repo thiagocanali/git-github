@@ -1,6 +1,5 @@
-# Como usar o git e fazer seu primeiro commit <br> git, github e controle de versões
-
-<br>
+# Como usar o git e fazer seu primeiro commit <br> 
+• git, github e controle de versões
 
 Iniciando um repositório:
 <br>
