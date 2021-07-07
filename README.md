@@ -1,7 +1,10 @@
-# git-exemplo
-aprendendo a usar o git
-e controle de versões (status | add | commit | push)
+# Como usar o git:
+como usar o git e controle de versões.
 
+(**https://git-scm.com/downloads**)
+
+<br>
+status | add | commit | push
 <br>
 
 Iniciando um repositório:
