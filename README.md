@@ -28,7 +28,7 @@ Adicionando arquivos para a área de seleção (salva mudanças feitas ):
 <br><br>
 Move arquivos da área de seleção para a área de envio:
 <br>
-› git commit -m "<mensagem>"
+› git commit -m "‹mensagem›"
 <br><br>
 Muda de branch ao mesmo tempo que cria um:
 <br>
