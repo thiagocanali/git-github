@@ -1,4 +1,4 @@
-# Como usar o git e fazer seu primeiro commit | git, github e controle de versões
+# Como usar o git e fazer seu primeiro commit <br> git, github e controle de versões
 (**https://git-scm.com/downloads**)
 <br>
 <br>
