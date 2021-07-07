@@ -2,7 +2,6 @@
 (**https://git-scm.com/downloads**)
 <br>
 
-
 Iniciando um repositório:
 <br>
 git clone
@@ -38,7 +37,7 @@ git checkout -b <nome-do-branch>
 Envia arquivos da área de envio:
 <br>
 git push
-<br><br>
+<br><hr><br>
 Problemas comuns
 <br><br>
 Efetuou git commit, mas se arrependeu:
