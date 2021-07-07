@@ -1,5 +1,5 @@
 # Como usar o git e fazer seu primeiro commit <br> git, github e controle de versões
-(**https://git-scm.com/downloads**) - git bash here
+(**https://git-scm.com/downloads**) <br> git bash here
 <br>
 
 Iniciando um repositório:
