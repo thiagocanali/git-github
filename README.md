@@ -30,9 +30,13 @@ Move arquivos da área de seleção para a área de envio:
 <br>
 › git commit -m "‹mensagem›"
 <br><br>
-Muda de branch ao mesmo tempo que cria um:
+Mudar de branch:
 <br>
-› git checkout -b ‹nome-do-branch›
+› git checkout ‹nome-da-branch›
+<br><br>
+Criar uma branch:
+<br>
+› git checkout -b ‹nome-da-branch›
 <br><br>
 Envia arquivos da área de envio:
 <br>
