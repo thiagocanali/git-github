@@ -20,7 +20,7 @@ Checando o que foi alterado nos arquivos:
 <br>
 › git diff --check (checa por espaços em branco)
 <br><br>
-Adicionando arquivos para a área de seleção (salva mudanças feitas ):
+Adicionando arquivos para a área de seleção (salva mudanças feitas):
 <br>
 › git add . (adiciona todos os arquivos modificados)
 <br>
