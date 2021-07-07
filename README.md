@@ -3,6 +3,7 @@
 <br>
 
 Iniciando um repositório:
+<br>
 - git clone
 <br><br>
 - git init
