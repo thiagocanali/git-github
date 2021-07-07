@@ -1,4 +1,4 @@
-# Como usar o git e fazer seu primeiro commit <br> git, github e controle de versões <br> status | add | commit | push
+# Como usar o git e fazer seu primeiro commit <br> git, github e controle de versões
 (**https://git-scm.com/downloads**)
 <br>
 
@@ -38,3 +38,4 @@ Envia arquivos da área de envio:
 <br>
 git push
 <br><hr><br>
+ <br> status | add | commit | push
