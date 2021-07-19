@@ -42,8 +42,8 @@ Envia arquivos da área de envio:
 › git push
 <br><hr>
 git bash here <br> 
-status | add | commit | push <br> 
-**https://git-scm.com/downloads**
-
 $ git config --global user.name "Fulano de Tal" <br>
-$ git config --global user.email fulanodetal@exemplo.br
+$ git config --global user.email fulanodetal@exemplo.br <br> 
+status | add | commit | push <br> 
+<br>
+**https://git-scm.com/downloads**
