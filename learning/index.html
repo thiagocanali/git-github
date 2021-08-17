@@ -1,0 +1,88 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+
+  <div class="tab-pane fade" id="novo" role="tabpanel" aria-labelledby="novo-tab">
+
+    <form class="" name="dados-form" method="post">
+
+      <div id="novoPart1" class="row">
+        <div class="col-sm mt-3">
+          <h4 style="color:rgba(0,33,77);" class="mt-4 text-center">dados do cliente</h4>
+          <hr
+            style="height:2px; border:none; color:#000; background-color:rgba(0,33,77); margin-top: 0px; margin-bottom: 0px;">
+
+          <div class="form-group mt-2">
+            <div class="form-group">
+              <label for="razaoSocial"></label>
+              <input type="email" class="form-control mb-n2" id="razaoSocial" placeholder="razão social">
+            </div>
+            <div class="form-group">
+              <label for="cnpj"></label>
+              <input type="password" class="form-control mb-n2" id="cnpj" placeholder="CNPJ">
+            </div>
+
+            <div class="form-group">
+              <label for="nomeFantasia"></label>
+              <input type="text" class="form-control mb-n2" id="nomeFantasia" placeholder="nome fantasia">
+            </div>
+            <div class="form-group">
+              <label for="A/C"></label>
+              <input type="text" class="form-control mb-n2" id="A/C" placeholder="A/C">
+            </div>
+            <div class="form-group">
+              <label for="telefone"></label>
+              <input type="text" class="form-control mb-n2" id="telefone" placeholder="telefone">
+            </div>
+            <div class="form-group">
+              <label for="email"></label>
+              <input type="email" class="form-control mb-n2" id="email" placeholder="e-mail">
+            </div>
+          </div>
+        </div>
+
+        <div class="d-flex justify-content-center mt-2">
+          <button value="form1" onClick="toggle('novo', 'conclusao');" class="btn btn-primary" id="primeiro-form"
+            data-toggle="tab" href="#proximo" role="tab" aria-controls="proximo" aria-selected="true"
+            type="submit">Finalizar Orçamento</button>
+        </div>
+
+        <div id="conclusao" style="display: none;">
+          <div class="card text-center" style="width: 18rem;">
+            <div class="card-body">
+              <h5 class="card-title">Special title treatment</h5>
+              <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+        </div>
+
+        <script>
+    function toggle() {
+    conclusao = document.getElementById("conclusao");
+    novo = document.getElementById("novo");
+
+    if(conclusao.style.display == "none"){
+    conclusao.style.display = "block";
+    novo.style.display = "none";
+    } else {
+    conclusao.style.display = "none";
+    novo.style.display = "block";
+    }
+
+    event.preventDefault();
+
+    }
+        </script>
+</body>
+
+</html>
