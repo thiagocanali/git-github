@@ -1,5 +1,12 @@
-contatos = [
-
-    { id: 1, nome: 'Thiago', email: 'thiago.canali@mobilibus.com.br' },
-    { id: 2, nome: 'Thais', email: 'thais@email.com' }
-  ];
+[
+    {
+		"id": 1,
+		"nome": "Thiago",
+		"email": "thiago.canali@mobilibus.com.br"
+	},
+    {
+		"id": 2,
+		"nome": "Thais",
+		"email": "thais@email.com"
+	}
+]
