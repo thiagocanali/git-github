@@ -1,4 +1,4 @@
-# Como usar o git e fazer seu primeiro commit <br> 
+# Como usar o git e fazer seu primeiro commit > status | add | commit | push <br>
 • git, github e controle de versões
 
 Iniciando um repositório:
@@ -44,6 +44,5 @@ Envia arquivos da área de envio:
 git bash here <br> 
 $ git config --global user.name "Fulano de Tal" <br>
 $ git config --global user.email fulanodetal@exemplo.br <br> 
-status | add | commit | push <br> 
 <br>
 **https://git-scm.com/downloads**
