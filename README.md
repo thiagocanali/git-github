@@ -3,7 +3,7 @@
 
 • git, github e controle de versões <br> 
 › git bash here 
-<br>
+<br><br>
 Iniciando um repositório:
 <br>
 › git clone
