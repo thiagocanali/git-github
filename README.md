@@ -1,4 +1,4 @@
-# Como usar o git e fazer seu primeiro commit <br> 
+# Como usar o git e fazer um commit <br> 
 > status | add | commit | push <br> 
 <hr>
 • git bash here 
