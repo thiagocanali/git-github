@@ -34,7 +34,9 @@ Criar uma branch:
 Envia arquivos da área de envio:
 <br>
 › git push
-<br><hr>
+<br>
+<hr>
+
 > $ git config --global user.name "Fulano de Tal" <br>
 > $ git config --global user.email fulanodetal@exemplo.br <br> 
  * https://git-scm.com/downloads 
