@@ -1,0 +1,8 @@
+correção Error TS2564 has no initializer:
+ "compilerOptions": {
+        "strictPropertyInitialization": false
+
+
+correção TS2345: Argument of type 'NgForm' is not assignable to parameter of type 'FormGroup':
+  "angularCompilerOptions": {
+        "strictTemplates": false
