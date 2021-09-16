@@ -2,7 +2,8 @@
 > status | add | commit | push <br> 
 
 • git, github e controle de versões <br> 
-
+› git bash here 
+<br>
 Iniciando um repositório:
 <br>
 › git clone
@@ -35,7 +36,7 @@ Envia arquivos da área de envio:
 <br>
 › git push
 <br><hr>
-git bash here <br> 
+<br> 
 $ git config --global user.name "Fulano de Tal" <br>
 $ git config --global user.email fulanodetal@exemplo.br <br> 
 <br>
