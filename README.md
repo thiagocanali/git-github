@@ -1,8 +1,7 @@
 # Como usar o git e fazer seu primeiro commit <br> 
 > status | add | commit | push <br> 
 
-• git, github e controle de versões <br> 
-› git bash here 
+• git bash here 
 <br><br>
 Iniciando um repositório:
 <br>
