@@ -1,0 +1,2 @@
+esse arquivo aparecerá dentro da branch QA
+"GIT PUSH ORIGIN"
